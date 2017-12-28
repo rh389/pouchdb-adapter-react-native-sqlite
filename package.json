@@ -14,7 +14,7 @@
     "test": "standard"
   },
   "dependencies": {
-    "pouchdb-adapter-websql-core": "*"
+    "pouchdb-adapter-websql-core": "rh389/pouchdb-adapter-websql-core"
   },
   "devDependencies": {
     "standard": "^10.0.2"
